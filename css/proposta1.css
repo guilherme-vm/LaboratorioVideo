@@ -29,6 +29,9 @@ a{
     font-weight: 100;
 }
 
+.uc:hover{
+    font-weight: 600;
+}
 
 .video{
     font-size: 70px;
