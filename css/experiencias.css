@@ -25,7 +25,9 @@ html{
     font-weight: 200;
 }
 
-
+.bold{
+    font-weight: 500;
+}
 
 .foot{
     color:white;
@@ -40,22 +42,13 @@ html{
 
 
 
-.menu{
-    text-align: center;
-}
-#opcao{
-    margin-bottom:100px;
-    font-family: 'Raleway', sans-serif;
-    text-decoration: none;
-    border: 1px solid white;
-    border-radius:20px;
-    width:150px;
-    height:50px;
-    line-height: 50px;
-    text-align: center;
-    display: inline-block;
-}
 
+#backArrow{
+    width: 50px;
+    position: fixed;
+    bottom: 30px;
+    left:20px;
+}
 
 .selection{
     background-color:white;
