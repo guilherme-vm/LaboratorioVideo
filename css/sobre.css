@@ -67,6 +67,14 @@ html{
     text-align: center;
     display: inline-block;
 }
+
+#backArrow{
+    width: 50px;
+   
+  
+}
+
+
 .selection{
     background-color:white;
     color:black;
